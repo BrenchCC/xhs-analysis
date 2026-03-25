@@ -1,4 +1,4 @@
-# analyze-xiaohongshu
+# xhs-analysis
 
 > 爬取小红书账号的笔记和封面图，自动生成涵盖 7 大维度的账号方法论报告。
 

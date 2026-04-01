@@ -40,10 +40,10 @@
 ```bash
 # 1. 克隆技能到 Claude Code 目录
 cd ~/.claude/skills
-git clone https://github.com/zhangchitc/analyze-xiaohongshu.git analyze-xiaohongshu
+git clone https://github.com/BrenchCC/xhs-analysis.git xhs-analysis
 
 # 2. 安装依赖
-cd analyze-xiaohongshu
+cd xhs-analysis
 pip3 install -r scripts/requirements.txt
 playwright install chromium
 ```
